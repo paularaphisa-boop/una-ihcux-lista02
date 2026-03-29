@@ -13,4 +13,4 @@ Arquivos que o .NET criou para mim:
 2. `SistemaExpert.csproj`: As configurações do meu projeto.
 
 ## 📸 Evidência de Execução
-![Print do terminal rodando o projeto](Lista 02 - Dotnet.jpg)
+![Print do terminal rodando o projeto](https://github.com/paularaphisa-boop/una-ihcux-lista02/blob/main/Lista%2002%20-%20Dotnet.jpg)
